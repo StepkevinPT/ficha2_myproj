@@ -1,2 +1,8 @@
 exemplo file1.txt
 
+
+
+
+
+fiz uma alteraçao dentro do ficheiro
+
